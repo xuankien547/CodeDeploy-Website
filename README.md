@@ -1,2 +1,2 @@
 # devops
-make file cicd
+make file CD
